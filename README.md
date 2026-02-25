@@ -1,3 +1,5 @@
-# timescape-app
-## 项目概述
-详细内容请查看 PRD.md 文件。
+# Timescape
+
+A photography app combining time-travel imaging, future prediction, AR technology, and folk culture exploration for creative visualization and documentation.
+
+See [PRD.md](PRD.md) for more details.
